@@ -1,1 +1,27 @@
+focus tree = {
+id = YUG_focus_tree
+           country = {
+             factor = 0
+            modifier = {
+                 add = 10
+               tag = YUG
+            } 
+       }
+
+defualt = no
+
+initial_show_position = {
+    focus = politic_YUG
+}
+focus = {
+id =  YUG_focus_1
+icon = GFX_
+x = 
+y =
+cost = 10
+available_if_capitulated = no
+
+completeion_reward = {
+add_politic_power = 10
+}
 
